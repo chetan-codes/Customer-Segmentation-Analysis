@@ -3,7 +3,10 @@ the descriptive analysis of the data and then implement several versions of the 
 and give out segmentations wit the increased accuracy.
 
 ## Tools:
-
+* Languages used *
 ## Technologies:
+
+
+
 
 
