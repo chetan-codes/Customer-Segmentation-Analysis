@@ -5,7 +5,7 @@ and give out segmentations wit the increased accuracy.
 ## Tools:
 * Languages used *
 ## Technologies:
-Jupyter Botebook
+Jupyter Notebook
 
 
 
