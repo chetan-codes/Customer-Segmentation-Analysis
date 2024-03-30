@@ -45,7 +45,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-**Note:** This project is completed and the repository is for reference purposes only.
+**Note:** This project is completed and the repository is contains files for reference.
 
 
 
